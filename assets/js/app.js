@@ -1,0 +1,1 @@
+document.getElementById("content-box").setAttribute("class", "blue")
